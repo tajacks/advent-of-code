@@ -10,6 +10,6 @@ of the work. Known answers are asserted against in the test packages.
 :last_quarter_moon: = 1/2 Stars Achieved
 :full_moon: = 2/2 Stars Achieved
 
-| Year | Language | Days Completed                                                                                                                  |
-|------|----------|---------------------------------------------------------------------------------------------------------------------------------|
-| 2022 | Java     | :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :last_quarter_moon: :full_moon: |
+| Year | Language | Days Completed                                                                                                                   |
+|------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| 2022 | Java     | :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :full_moon: :last_quarter_moon: :full_moon: :full_moon: |
